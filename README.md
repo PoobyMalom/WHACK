@@ -1,0 +1,2 @@
+# WHACK
+Wellesley Hackathon
